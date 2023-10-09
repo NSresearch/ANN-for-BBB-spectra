@@ -11,8 +11,8 @@ The application of trained ANN was provided for two next files of EEG recorded i
 
 
 ## Brief description of program files
-# fft_diap.py
+### fft_diap.py
 
-# ann_BBB.py
+### ann_BBB.py
 
-# ann_validation_box.py
+### ann_validation_box.py
