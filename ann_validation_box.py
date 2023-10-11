@@ -78,7 +78,7 @@ def ROC (ans, y_test, n = 100):
     plt.show()
     return(roc)
 
-model = load_model("Glioma") #_good0")
+model = load_model("ANN") #_good0")
 
 filelist = os.listdir("./")
 
