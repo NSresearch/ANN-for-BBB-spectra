@@ -1,5 +1,7 @@
 # Machine learning technology for EEG-prognosis of opening of the blood-brain barrier and the activation of brain’s drainage system during isoflurane anesthesia
 
+Due to the restrictions on the size of files, we are not able to upload the examples of edf-files with EEG recordings of rats. They are available by the link: https://drive.google.com/drive/folders/1SkufyVn5fn8C0gZbGaMsjK7EP1Ld7kBL?usp=sharing
+
 ## Description of included data
 There are two examples of data used for training and data of two rats with isoflurane anestesia.
 * The data of file "1 rat 1 before the opening BBB.edf" from 1800 sec. to 3600 sec. were used as data of normal behaviour marked as '0' during the training process
